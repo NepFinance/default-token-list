@@ -1,0 +1,10 @@
+{
+  "name": "Neptune",
+  "explorer": "https://explorer.swellnetwork.io/token/0xEa34479f7d95341E5fd49b89936366D6da710824",
+  "type": "ERC20",
+  "symbol": "NEP",
+  "decimals": 8,
+  "status": "active",
+  "id": "0xEa34479f7d95341E5fd49b89936366D6da710824",
+  "tags": ["defi"]
+}
